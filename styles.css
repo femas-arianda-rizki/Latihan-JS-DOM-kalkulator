@@ -23,7 +23,7 @@ body {
 
 .main h2 {
   text-align: center;
-  color: white;
+  color: black;
   text-transform: uppercase;
 }
 
@@ -58,7 +58,7 @@ body {
   font-size: 20px;
   padding: 10px;
   border: none;
-  color: #607d8b;
+  color: black;
   border-radius: 25px;
   text-align: right;
 }
